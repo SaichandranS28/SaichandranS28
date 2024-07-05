@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaichandranS28
-- 👀 I’m interested in Android Development and Codings (Java,C,C++,Python)
+- 👀 I’m interested in Web Development and Codings (HTML, CSS, Javascript, Bootsrap, Tailwind CSS, Python)
 - 🌱 I’m currently learning in Saveetha Engineering College
 - 💞️ I’m looking to collaborate on Codings
 - 📫 How to reach me s.saichandran2002@gmail.com
