@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @SaichandranS28
-- 👀 I’m interested in Web Development and Codings (HTML, CSS, Javascript, ReactJS, Bootsrap, Tailwind CSS, Python)
-- 💞️ I’m looking to collaborate on Codings
-- 📫 How to reach me s.saichandran2002@gmail.com
+🌟 Front-End Developer | Passionate about creating clean, responsive, and user-friendly web experiences.
+💻 Skilled in ReactJS, JavaScript, Tailwind CSS, HTML, and CSS.
+🎨 Building projects with a focus on functionality and design.
+🚀 Currently learning and exploring new front-end technologies.
+📌 Check out my work on Portfolio Website.
+📫 How to reach me s.saichandran2002@gmail.com
 
 <!---
 SaichandranS28/SaichandranS28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
