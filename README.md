@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaichandranS28
-- 👀 I’m interested in Web Development and Codings (HTML, CSS, Javascript, Bootsrap, Tailwind CSS, Python)
-- 🌱 I’m currently learning in Saveetha Engineering College
+- 👀 I’m interested in Web Development and Codings (HTML, CSS, Javascript, ReactJS, Bootsrap, Tailwind CSS, Python)
 - 💞️ I’m looking to collaborate on Codings
 - 📫 How to reach me s.saichandran2002@gmail.com
 
