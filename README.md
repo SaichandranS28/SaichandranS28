@@ -2,7 +2,6 @@
 - 💻 Skilled in ReactJS, JavaScript, Tailwind CSS, HTML, and CSS.
 - 🎨 Building projects with a focus on functionality and design.
 - 🚀 Currently learning and exploring new front-end technologies.
-- 📌 Check out my work on Portfolio Website.
 - 📫 How to reach me s.saichandran2002@gmail.com
 
 <!---
